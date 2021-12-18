@@ -2,3 +2,7 @@ node_modules
 settings.json
 test.js
 dist
+.env
+package-lock.json
+~~index.js
+yarn.lock
